@@ -11,4 +11,4 @@
 ## Validating the transactions
 ![3_validate](https://user-images.githubusercontent.com/118318397/230493437-654bd516-ea96-4524-8e18-9352e04c8803.png)
 
-## Terminal output
+
